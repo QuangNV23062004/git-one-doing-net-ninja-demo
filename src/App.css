@@ -1,0 +1,31 @@
+.Nav{
+  display: block;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  list-style-type: none; /* Remove bullets */
+  margin: 0; /* Remove margins */
+  padding: 0; /* Remove padding */
+}
+
+.active{
+  
+  display: inline-block;
+  margin: 20px;
+  color: white;
+  
+}
+.column {
+  display: inline;
+  width: 30%;
+  margin: 5px;
+}
+
+
+.image{
+  width: 100px;
+  height: auto;
+}
