@@ -2,8 +2,20 @@
   display: block;
   background-color: black;
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start; /* Align items to the start */
+  padding-left: 20px; /* Add some padding to move items to the right */
 }
+
+.Nav li {
+  display: inline-block;
+  margin: 20px;
+  color: white;
+}
+
+.Nav li:hover {
+  background-color: yellow; /* Change background color on hover */
+}
+
 
 ul {
   list-style-type: none; /* Remove bullets */
@@ -17,6 +29,9 @@ ul {
   margin: 20px;
   color: white;
   
+}
+.active:hover{
+  background-color: rgb(208, 208, 77);
 }
 .column {
   display: inline;
