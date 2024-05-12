@@ -37,10 +37,36 @@ ul {
   display: inline;
   width: 30%;
   margin: 5px;
+  background-color: rgb(159, 159, 159);
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+}
 
-.image{
-  width: 100px;
-  height: auto;
+.column {
+  flex: 1 0 30%; /* grow | shrink | basis */
+  margin: 1em; 
+  text-align: center;
+  
+}
+.Button{
+  width: 100%;
+  background-color: rgb(19, 19, 56);
+  color: white;
+  height: 20px;
+}
+.Image{
+  width: 100%;
+  height: auto; /* maintain aspect ratio */
+}
+.card p:last-child {
+  margin-bottom: 0;
+}
+.Footer{
+  text-align: center;
+  background-color: rgb(150, 150, 61);
+  color: white;
 }

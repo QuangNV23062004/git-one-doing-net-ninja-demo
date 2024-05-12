@@ -9,7 +9,7 @@ export default class player extends Component{
                         <img  className="Image" src="https://th.bing.com/th/id/OIP.-ylv4m50En04a9c5-1V7RAHaFj?rs=1&pid=ImgDetMain" alt="" />
                         <h3>Cristiano Ronaldo</h3>
                         <p className="title">Manchester United</p>
-                        <p><button>Detail</button></p>
+                        <p><button className="Button">Detail</button></p>
                     </div>
                 </div>
                 <div className="column">
@@ -17,7 +17,7 @@ export default class player extends Component{
                         <img className="Image" src="https://th.bing.com/th/id/OIP.-ylv4m50En04a9c5-1V7RAHaFj?rs=1&pid=ImgDetMain" alt="" />
                         <h3>Cristiano Ronaldo</h3>
                         <p className="title">Manchester United</p>
-                        <p><button>Detail</button></p>
+                        <p><button className="Button">Detail</button></p>
                     </div>
                 </div>
                 <div className="column">
@@ -25,7 +25,7 @@ export default class player extends Component{
                         <img  className="Image" src="https://th.bing.com/th/id/OIP.-ylv4m50En04a9c5-1V7RAHaFj?rs=1&pid=ImgDetMain" alt="" />
                         <h3>Cristiano Ronaldo</h3>
                         <p className="title">Manchester United</p>
-                        <p><button>Detail</button></p>
+                        <p><button className="Button">Detail</button></p>
                     </div>
                 </div>
                 <div className="column">
@@ -33,7 +33,7 @@ export default class player extends Component{
                         <img  className="Image" src="https://th.bing.com/th/id/OIP.-ylv4m50En04a9c5-1V7RAHaFj?rs=1&pid=ImgDetMain" alt="" />
                         <h3>Cristiano Ronaldo</h3>
                         <p className="title">Manchester United</p>
-                        <p><button>Detail</button></p>
+                        <p><button className="Button">Detail</button></p>
                     </div>
                 </div>
                 <div className="column">
@@ -41,7 +41,7 @@ export default class player extends Component{
                         <img   className="Image" src="https://th.bing.com/th/id/OIP.-ylv4m50En04a9c5-1V7RAHaFj?rs=1&pid=ImgDetMain" alt="" />
                         <h3>Cristiano Ronaldo</h3>
                         <p className="title">Manchester United</p>
-                        <p><button>Detail</button></p>
+                        <p><button className="Button">Detail</button></p>
                     </div>
                 </div>
                 <div className="column">
@@ -49,7 +49,7 @@ export default class player extends Component{
                         <img  className="Image" src="https://th.bing.com/th/id/OIP.-ylv4m50En04a9c5-1V7RAHaFj?rs=1&pid=ImgDetMain" alt="" />
                         <h3>Cristiano Ronaldo</h3>
                         <p className="title">Manchester United</p>
-                        <p><button>Detail</button></p>
+                        <p><button className="Button">Detail</button></p>
                     </div>
                 </div>
             </div>
